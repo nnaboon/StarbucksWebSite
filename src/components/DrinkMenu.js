@@ -1,6 +1,6 @@
 import React from 'react';
-import banner from './images/banner2_thumnail.png';
-import foodBanner from './images/Food_Summer2021_Web_thumnail.png';
+import banner from '../images/banner2_thumnail.png';
+import foodBanner from '../images/Food_Summer2021_Web_thumnail.png';
 
 export default function DrinkMenu() {
     return (

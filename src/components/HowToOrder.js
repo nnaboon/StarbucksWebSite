@@ -1,7 +1,7 @@
 import React from 'react';
-import rewards from './images/MOP-banner-rewards-logo.png';
-import banner_1 from './images/MOP-banner-1.png';
-import banner_2 from './images/MOP-banner-2.png';
+import rewards from '../images/MOP-banner-rewards-logo.png';
+import banner_1 from '../images/MOP-banner-1.png';
+import banner_2 from '../images/MOP-banner-2.png';
 
 export default function HowToOrder() {
     return(

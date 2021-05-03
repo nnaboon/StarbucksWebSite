@@ -1,7 +1,8 @@
 import React from 'react';
-import DrinkMenu from './DrinkMenu';
-import Header from './header';
-import HowToOrder from './HowToOrder';
+import Contact from './components/Contact';
+import DrinkMenu from './components/DrinkMenu';
+import Header from './components/header';
+import HowToOrder from './components/HowToOrder';
 import Slider from './Slider';
 
 export default function App() {
@@ -11,6 +12,7 @@ export default function App() {
             <Slider />
             <DrinkMenu />
             <HowToOrder />
+            <Contact />
         </div>
     )
 }

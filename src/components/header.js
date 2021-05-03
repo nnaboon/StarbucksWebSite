@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './images/starbucks_corporation_logo.png';
+import logo from '../images/starbucks_corporation_logo.png';
 
 export default function Header() {
     return(
